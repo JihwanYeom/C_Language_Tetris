@@ -1,0 +1,5 @@
+﻿2_1.obj : error LNK2005: drawBlock이(가) 1_2.obj에 이미 정의되어 있습니다.
+2_1.obj : error LNK2005: eraseBlock이(가) 1_2.obj에 이미 정의되어 있습니다.
+2_1.obj : error LNK2005: main이(가) 1_2.obj에 이미 정의되어 있습니다.
+2_1.obj : error LNK2005: blockModel이(가) 1_2.obj에 이미 정의되어 있습니다.
+C:\Users\yum02\Desktop\SW Basic Design\Tetris_1\x64\Debug\Tetris_1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
